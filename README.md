@@ -122,7 +122,7 @@ pip install numpy pandas seaborn scipy plotly matplotlib scikit-learn kagglehub 
 Run the main script:
 
 ```bash
-python "HealthCare Predictive Analytics.py"
+https://github.com/HamadaX98/HealthCare-Predictive-Analytics.git
 
 ```
 
